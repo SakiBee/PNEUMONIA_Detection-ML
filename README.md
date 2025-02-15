@@ -1,4 +1,13 @@
 # Pneumonia Detection Using CNN
+## Name: Md. Sakib Uddin
+
+Registration No. 2018-15-32
+
+Session: 2018-2019
+
+## Course Instructor: Md. Mynoddin. 
+
+Assistant Professor, Dept. of CSE, RMSTU
 
 # Introduction
 Pneumonia is a life-threatening infection of the lungs if it is not diagnosed in time. This project aims to detect pneumonia from chest X-ray images using a deep learning model designed on Convolutional Neural Networks (CNNs). By automating the detection of pneumonia, this model can assist radiologists in quicker and better diagnoses. 
